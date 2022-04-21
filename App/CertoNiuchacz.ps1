@@ -4,7 +4,7 @@ Add-Type -AssemblyName PresentationFramework
 <Window
 		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-		Title="CertoNiuchacz v2.0.0.3" Height="300" Width="500" MinWidth="500" MinHeight="300"  WindowStyle="ToolWindow" SizeToContent="WidthAndHeight">
+		Title="CertoNiuchacz v2.0.1.0" Height="300" Width="500" MinWidth="500" MinHeight="300"  WindowStyle="ToolWindow" SizeToContent="WidthAndHeight">
 	<Grid>
 		<Grid.RowDefinitions>
 			<RowDefinition Height="70"/>
